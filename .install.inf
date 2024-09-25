@@ -60,7 +60,7 @@ HKLM, "SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce\Setup\", "", , "rundll3
 
 
 [Strings]
-CUR_DIR     	= "Cursors\cursors_by_jo_v1"
+CUR_DIR     	= "Cursors\cursors_by_jo_v1\cursors"
 SCHEME_NAME 	= "Cursors by Jo (v1)"
 alternate	= "alternate.cur"
 busy		= "busy.ani"
